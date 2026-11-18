@@ -8,7 +8,7 @@
     sel-bg:  #cdd6f4;
     sel-fg:  #1e1e2e;
 
-    font: "Fira Sans Condensed 18";
+    font: "Roboto 18";
 }
 
 configuration {
